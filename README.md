@@ -30,20 +30,6 @@ Twitter: https://x.com/Renishpatel007
 
 Instagram: https://www.instagram.com/renishh_07
 
-
 ---
-
-### 📊 GitHub Stats
-
-![Renish's GitHub stats](https://github-readme-stats.vercel.app/api?username=renishh07&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=renishh07&theme=tokyonight)
-
----
-
 
 ⭐ From [Renish](https://github.com/renishh07)
