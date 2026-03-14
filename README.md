@@ -32,4 +32,4 @@ Instagram: https://www.instagram.com/renishh_07
 
 ---
 
-⭐ From [Renish](https://github.com/renishh07)
+⭐ From [Renish](https://github.com/renishh007)
